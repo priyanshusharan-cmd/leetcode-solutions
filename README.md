@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/priyanshusharan-cmd/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/priyanshusharan-cmd/leetcode-solutions/tree/master/0443-string-compression) |
+| [1768-merge-strings-alternately](https://github.com/priyanshusharan-cmd/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 ## String
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/priyanshusharan-cmd/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/priyanshusharan-cmd/leetcode-solutions/tree/master/0443-string-compression) |
+| [1768-merge-strings-alternately](https://github.com/priyanshusharan-cmd/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 ## Array
 |  |
 | ------- |
