@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/priyanshusharan-cmd/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/priyanshusharan-cmd/leetcode-solutions/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/priyanshusharan-cmd/leetcode-solutions/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/priyanshusharan-cmd/leetcode-solutions/tree/master/0443-string-compression) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/priyanshusharan-cmd/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1657-determine-if-two-strings-are-close](https://github.com/priyanshusharan-cmd/leetcode-solutions/tree/master/1657-determine-if-two-strings-are-close) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/priyanshusharan-cmd/leetcode-solutions/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/priyanshusharan-cmd/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [2390-removing-stars-from-a-string](https://github.com/priyanshusharan-cmd/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Linked List
@@ -108,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0328-odd-even-linked-list](https://github.com/priyanshusharan-cmd/leetcode-solutions/tree/master/0328-odd-even-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/priyanshusharan-cmd/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/priyanshusharan-cmd/leetcode-solutions/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
