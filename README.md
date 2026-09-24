@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/priyanshusharan-cmd/leetcode-solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/priyanshusharan-cmd/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0238-product-of-array-except-self](https://github.com/priyanshusharan-cmd/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/priyanshusharan-cmd/leetcode-solutions/tree/master/0283-move-zeroes) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/priyanshusharan-cmd/leetcode-solutions/tree/master/0001-two-sum) |
 | [1207-unique-number-of-occurrences](https://github.com/priyanshusharan-cmd/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1657-determine-if-two-strings-are-close](https://github.com/priyanshusharan-cmd/leetcode-solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/priyanshusharan-cmd/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
