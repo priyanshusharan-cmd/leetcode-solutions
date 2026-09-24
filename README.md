@@ -112,11 +112,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/priyanshusharan-cmd/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0328-odd-even-linked-list](https://github.com/priyanshusharan-cmd/leetcode-solutions/tree/master/0328-odd-even-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/priyanshusharan-cmd/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/priyanshusharan-cmd/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0394-decode-string](https://github.com/priyanshusharan-cmd/leetcode-solutions/tree/master/0394-decode-string) |
 ## Design
 |  |
@@ -131,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/priyanshusharan-cmd/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/priyanshusharan-cmd/leetcode-solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
