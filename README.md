@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/priyanshusharan-cmd/leetcode-solutions/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/priyanshusharan-cmd/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/priyanshusharan-cmd/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0238-product-of-array-except-self](https://github.com/priyanshusharan-cmd/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/priyanshusharan-cmd/leetcode-solutions/tree/master/0283-move-zeroes) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/priyanshusharan-cmd/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [1004-max-consecutive-ones-iii](https://github.com/priyanshusharan-cmd/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Counting
 |  |
@@ -140,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/priyanshusharan-cmd/leetcode-solutions/tree/master/0002-add-two-numbers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/priyanshusharan-cmd/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
