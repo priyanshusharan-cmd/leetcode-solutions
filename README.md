@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/priyanshusharan-cmd/leetcode-solutions/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/priyanshusharan-cmd/leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/priyanshusharan-cmd/leetcode-solutions/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/priyanshusharan-cmd/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0151-reverse-words-in-a-string](https://github.com/priyanshusharan-cmd/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/priyanshusharan-cmd/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/priyanshusharan-cmd/leetcode-solutions/tree/master/0394-decode-string) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/priyanshusharan-cmd/leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/priyanshusharan-cmd/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/priyanshusharan-cmd/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [1207-unique-number-of-occurrences](https://github.com/priyanshusharan-cmd/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1657-determine-if-two-strings-are-close](https://github.com/priyanshusharan-cmd/leetcode-solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/priyanshusharan-cmd/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/priyanshusharan-cmd/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/priyanshusharan-cmd/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/priyanshusharan-cmd/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/priyanshusharan-cmd/leetcode-solutions/tree/master/0012-integer-to-roman) |
 ## Divide and Conquer
 |  |
 | ------- |
